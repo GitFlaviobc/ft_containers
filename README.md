@@ -23,7 +23,7 @@
 
 <a name="goal"/> <h2> 🎯 Goal </h2> </a>
 - The goal is to learn C++ containers, how to use them and how they were implemented.
-- After that re implement the containers I had to compare and test with the orignal containers to see if the performance was good and if the output were correct.
+- After implement the containers, I had to compare and test with the orignal containers to see if the performance was good and if the outputs were correct.
 <p></p>
 <a href = "#content">📋</a>
 
@@ -73,11 +73,11 @@ make re
 <a href = "#content">📋</a>
 
 <a name="test"/> <h2> 👨‍💻 Tests </h2> </a>
-- Teste Compare CPP Vector container with my Vector:
+- Test Compare CPP Vector container with my Vector:
 ```bash
 make testvec
 ```
-- Teste Compare CPP Map container with my Map:
+- Test Compare CPP Map container with my Map:
 ```bash
 make testmap
 ```
