@@ -17,7 +17,7 @@
 - Learned more about data structures like vector, pairs and maps.
 - Learned about AVL Tree and RB Tree.
 - Learned about using templates with type traits and metadata.
-- Learned abbout iterators.
+- Learned about iterators.
 <p></p>
 <a href = "#content">📋</a>
 
